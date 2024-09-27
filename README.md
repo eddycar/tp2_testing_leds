@@ -3,7 +3,7 @@
 
 >Autor: Edilberto Carvajal
 
-Desarrollo de biblioteca para maejo de LEDs y testing automático
+Desarrollo de biblioteca para manejo de LEDs y testing automático
 
 ### First steps
 
