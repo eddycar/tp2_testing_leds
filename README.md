@@ -37,5 +37,3 @@ Tests desarrollados:
 12- Revisar limites de los parametros.
 13- Revisar parámetros fuera de los limites.
 ```
-
-
