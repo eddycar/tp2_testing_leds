@@ -19,7 +19,7 @@
  * @return true
  * @return false
  */
-bool LedsCreate(uint16_t *direccion);
+bool LedsCreate(uint16_t * direccion);
 
 /**
  * @brief Enciende un LED
